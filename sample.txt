@@ -1,0 +1,10 @@
+           +---------------------------+---------------------------+
+           | GoodA                     | GoodB                     |
++----------+---------------------------+---------------------------+
+| CountryX | 100(1 GoodA = 2.0GoodB)   | GoodB(1 GoodB = 0.5GoodB) |
++----------+---------------------------+---------------------------+
+| CountryY | 50(1 GoodA = 6.0GoodB)    | 300(1 GoodB = 0.17GoodB)  |
++----------+---------------------------+---------------------------+
+CountryX has an absolute advantage in GoodA
+CountryX has a comparative advantage in GoodA while CountryY has a comparative advantage in GoodB
+One possible term of trade that benefits both countries is trading 1 GoodA for 4.0 GoodB(s)
